@@ -12,6 +12,6 @@
 
 ## Below are links to all our project files
 
-### Video 
-### Report 
+### Video :
+### Report :
 ### Code : https://github.com/zhangluyangiscoding/unity_vrgame/tree/master
