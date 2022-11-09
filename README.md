@@ -12,6 +12,6 @@
 
 ## Below are links to all our project files
 
-### Video :
+### Video : https://1drv.ms/v/s!Ao-KEm0zaqomghWXRhDhghrXvxbj?e=jFhzMI
 ### Report : https://github.com/zhangluyangiscoding/HCI-GroupProject/blob/main/Summery.pdf
 ### Code : https://github.com/zhangluyangiscoding/unity_vrgame/tree/master
